@@ -1,10 +1,16 @@
-hii
+ __                   __
+/\ \       __   __   /\ \
+\ \ \____ /\_\ /\_\  \ \ \
+ \ \  __ \\/_/ \/_/   \ \ \
+  \ \ \ \ \ /\ \ /\ \  \/_/_
+   \ \_\ \_\\ \_\\ \_\   /\_\
+    \/_/\/_/ \/_/ \/_/   \/_/
 
-i am a software developer with experience mainly in Haskell, Javascript, and C.
+i am a someone with experience mainly in C, Javascript, and Haskell.
 
 aside from programming, i am really keen on tea.
 
-i like talking to people, exploring features of programming languages
-and to collaborate on stupid projects. feel free to reach out to meee.
+i really like talking to people, exploring programming languages
+and collaborating on stupid projects. feel free to reach out to meee.
 
 discord: s0und#4630
