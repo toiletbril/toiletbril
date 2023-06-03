@@ -2,11 +2,11 @@
 /\ \       __   __   /\ \
 \ \ \____ /\_\ /\_\  \ \ \
  \ \  __ \\/_/ \/_/   \ \ \
-  \ \ \ \ \ /\ \ /\ \  \/_/_
+  \ \ \ \ \ /\ \ /\ \  \/_/
    \ \_\ \_\\ \_\\ \_\   /\_\
     \/_/\/_/ \/_/ \/_/   \/_/
 
-i am a someone with experience mainly in C, Javascript, and Haskell.
+i am a goofball with experience mainly in C, Javascript, and Haskell.
 
 aside from programming, i am really keen on tea.
 
